@@ -1,0 +1,3 @@
+# Artefactos generados por `tsc -b` al compilar tsconfig.node.json
+vite.config.js
+vite.config.d.ts
